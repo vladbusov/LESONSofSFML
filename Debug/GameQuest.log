@@ -1,0 +1,14 @@
+﻿Сборка начата 03.08.2017 22:35:39.
+     1>Проект "C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\GameQuest\GameQuest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\GameQuest\SFML-2.2\include" /I"C:\Users\Владислав\Documents\Visual Studio 2013\Projects\GameQuest\GameQuest\SFML-2.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         Пропуск... (изменения не обнаружены)
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\Debug\GameQuest.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\GameQuest\SFML-2.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\Debug\GameQuest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\Debug\GameQuest.lib" /MACHINE:X86 Debug\main.obj
+         GameQuest.vcxproj -> C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\Debug\GameQuest.exe
+     1>Сборка проекта "C:\Users\Влад\Documents\Visual Studio 2013\Projects\GameQuest\GameQuest\GameQuest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:28.31
